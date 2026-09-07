@@ -41442,5 +41442,21 @@
     "description": "French website-creation price barometer 2026 (103 public prices, CC BY 4.0): load, filter and summarize the open dataset",
     "license": "MIT",
     "web": "https://lescreavores.fr/prix-creation-site-internet/"
+  },
+  {
+    "name": "nimorphy",
+    "url": "https://github.com/framefrok/nimorphy",
+    "method": "git",
+    "tags": [
+      "nlp",
+      "morphology",
+      "russian",
+      "linguistics",
+      "pymorphy",
+      "text-processing"
+    ],
+    "description": "High-performance Russian morphological analyzer and synthesizer for Nim (Pymorphy alternative)",
+    "license": "MIT",
+    "web": "https://github.com/framefrok/nimorphy"
   }
 ]
