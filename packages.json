@@ -41504,5 +41504,24 @@
     ],
     "description": "Haskell-inspired functional programming tools for Nim!",
     "license": "0BSD"
+  },
+  {
+    "name": "harfbuzz",
+    "url": "https://github.com/nimbase/harfbuzz-nim",
+    "method": "git",
+    "tags": [
+      "bindings",
+      "fonts",
+      "typography",
+      "render",
+      "opentype",
+      "text",
+      "rendering",
+      "unicode",
+      "gpu"
+    ],
+    "description": "Nim bindings to HarfBuzz text shaping engine",
+    "license": "MIT",
+    "web": "https://github.com/nimbase/harfbuzz-nim"
   }
 ]
